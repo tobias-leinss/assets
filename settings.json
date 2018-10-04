@@ -1,0 +1,18 @@
+{
+    "editor.fontSize": 14,
+    "editor.minimap.showSlider": "always",
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "jsx-sublime-babel-tags": "javascriptreact"
+    },
+    "editor.snippetSuggestions": "top",
+    "workbench.startupEditor": "newUntitledFile",
+    "explorer.confirmDelete": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "breadcrumbs.enabled": false,
+    "workbench.editor.enablePreview": false,
+    "window.zoomLevel": 0
+}
